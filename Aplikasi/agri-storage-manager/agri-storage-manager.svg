@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad10" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E7D32"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bgGrad10)"/>
+  
+  <!-- White Card -->
+  <rect x="22" y="22" width="84" height="84" rx="16" fill="#FFFFFF"/>
+  
+  <!-- Silo tower (left/center) -->
+  <!-- Silo dome -->
+  <path d="M32 44 C32 34 50 34 50 44 Z" fill="#94A3B8"/>
+  <!-- Silo cylinder body -->
+  <rect x="32" y="44" width="18" height="46" fill="#CBD5E1"/>
+  <line x1="32" y1="56" x2="50" y2="56" stroke="#94A3B8" stroke-width="1.5"/>
+  <line x1="32" y1="68" x2="50" y2="68" stroke="#94A3B8" stroke-width="1.5"/>
+  <line x1="32" y1="80" x2="50" y2="80" stroke="#94A3B8" stroke-width="1.5"/>
+  
+  <!-- Barn / Warehouse building -->
+  <!-- Roof -->
+  <polygon points="52,50 78,34 98,50" fill="#2E7D32"/>
+  <!-- Walls -->
+  <rect x="54" y="50" width="42" height="40" fill="#E8F5E9"/>
+  <!-- Barn Door -->
+  <rect x="66" y="66" width="18" height="24" rx="2" fill="#1B5E20"/>
+  <line x1="66" y1="66" x2="84" y2="90" stroke="#2E7D32" stroke-width="1.5"/>
+  <line x1="84" y1="66" x2="66" y2="90" stroke="#2E7D32" stroke-width="1.5"/>
+  
+  <!-- Grain / Crop sacks stacked at front bottom right -->
+  <ellipse cx="88" cy="86" rx="8" ry="4" fill="#D97706"/>
+  <ellipse cx="94" cy="84" rx="6" ry="3.5" fill="#F59E0B"/>
+</svg>

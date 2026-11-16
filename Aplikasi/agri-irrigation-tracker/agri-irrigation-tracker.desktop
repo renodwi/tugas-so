@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Agri-Irrigation Tracker
+Comment=Catatan Pengairan Lahan & Efisiensi Bahan Bakar Pompa
+Exec=agri-irrigation-tracker
+Icon=agri-irrigation-tracker
+Terminal=false
+Categories=Office;Utility;Agriculture;
+StartupWMClass=agri-irrigation-tracker
+StartupNotify=true

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Agri-Crop Scheduler
+Comment=Jadwal dan Plot Tanam Pertanian
+Exec=agri-crop-scheduler
+Icon=agri-crop-scheduler
+Terminal=false
+Categories=Office;Utility;Agriculture;
+StartupWMClass=agri-crop-scheduler
+StartupNotify=true

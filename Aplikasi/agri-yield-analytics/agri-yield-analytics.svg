@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad9" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E7D32"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bgGrad9)"/>
+  
+  <!-- White Card -->
+  <rect x="22" y="22" width="84" height="84" rx="16" fill="#FFFFFF"/>
+  
+  <!-- Chart axes -->
+  <line x1="32" y1="88" x2="96" y2="88" stroke="#E2E8F0" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <!-- Bar 1 -->
+  <rect x="36" y="66" width="12" height="22" rx="3" fill="#A5D6A7"/>
+  <!-- Bar 2 -->
+  <rect x="52" y="52" width="12" height="36" rx="3" fill="#66BB6A"/>
+  <!-- Bar 3 (Highest) -->
+  <rect x="68" y="38" width="12" height="50" rx="3" fill="#2E7D32"/>
+  
+  <!-- Upward Trend Arrow -->
+  <path d="M42 58 L58 44 L74 30 L88 34" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <polygon points="86,28 94,33 88,40" fill="#F59E0B"/>
+  
+  <!-- Star Quality Badge in upper right -->
+  <polygon points="88,58 91,65 98,66 93,71 94,78 88,74 82,78 83,71 78,66 85,65" fill="#F59E0B"/>
+</svg>

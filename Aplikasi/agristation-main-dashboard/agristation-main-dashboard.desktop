@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AgriStation Main Dashboard
+Comment=Pusat Kendali Operasional Harian Kebun Pertanian
+Exec=agristation-main-dashboard
+Icon=agristation-main-dashboard
+Terminal=false
+Categories=Office;Utility;Agriculture;
+StartupWMClass=agristation-main-dashboard
+StartupNotify=true

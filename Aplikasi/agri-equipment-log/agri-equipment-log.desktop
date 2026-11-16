@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Agri-Equipment Log
+Comment=Katalog dan Kondisi Alat dan Mesin Pertanian
+Exec=agri-equipment-log
+Icon=agri-equipment-log
+Terminal=false
+Categories=Office;Utility;Agriculture;
+StartupWMClass=agri-equipment-log
+StartupNotify=true

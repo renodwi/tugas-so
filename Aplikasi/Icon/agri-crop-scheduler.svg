@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E7D32"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bgGrad2)"/>
+  
+  <!-- Calendar surface -->
+  <rect x="24" y="24" width="80" height="80" rx="14" fill="#FFFFFF"/>
+  <!-- Calendar header -->
+  <path d="M24 38 C24 30.27 30.27 24 38 24 L90 24 C97.73 24 104 30.27 104 38 L104 44 L24 44 Z" fill="#2E7D32"/>
+  
+  <!-- Rings -->
+  <rect x="40" y="18" width="6" height="12" rx="3" fill="#E8F5E9"/>
+  <rect x="82" y="18" width="6" height="12" rx="3" fill="#E8F5E9"/>
+  
+  <!-- Field furrow lines (pematang sawah) -->
+  <path d="M30 60 Q64 54 98 60" stroke="#C8E6C9" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M30 74 Q64 68 98 74" stroke="#A5D6A7" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M30 88 Q64 82 98 88" stroke="#81C784" stroke-width="3" stroke-linecap="round" fill="none"/>
+  
+  <!-- Sprout in foreground -->
+  <path d="M64 92 L64 64" stroke="#2E7D32" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M64 66 C54 66 48 56 50 48 C58 48 64 56 64 66 Z" fill="#4CAF50"/>
+  <path d="M64 60 C74 60 80 50 78 42 C70 42 64 50 64 60 Z" fill="#81C784"/>
+</svg>

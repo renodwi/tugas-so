@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Agri-Harvest Countdown
+Comment=Hitung Mundur Panen & Pemantau Fase Pertumbuhan
+Exec=agri-harvest-countdown
+Icon=agri-harvest-countdown
+Terminal=false
+Categories=Office;Utility;Agriculture;
+StartupWMClass=agri-harvest-countdown
+StartupNotify=true

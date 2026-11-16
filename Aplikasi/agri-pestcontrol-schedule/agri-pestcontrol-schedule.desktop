@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Agri-PestControl Schedule
+Comment=Jadwal Semprot, Pengendalian Hama & Batas Aman PHI
+Exec=agri-pestcontrol-schedule
+Icon=agri-pestcontrol-schedule
+Terminal=false
+Categories=Office;Utility;Agriculture;
+StartupWMClass=agri-pestcontrol-schedule
+StartupNotify=true

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Agri-Finance Ledger
+Comment=Buku Kas Digital Usaha Pertanian & Arus Kas
+Exec=agri-finance-ledger
+Icon=agri-finance-ledger
+Terminal=false
+Categories=Office;Finance;Agriculture;
+StartupWMClass=agri-finance-ledger
+StartupNotify=true

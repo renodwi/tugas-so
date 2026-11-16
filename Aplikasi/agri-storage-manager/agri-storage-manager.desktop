@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Agri-Storage Manager
+Comment=Stok Komoditas, Inventaris Gudang & Silo Pengering
+Exec=agri-storage-manager
+Icon=agri-storage-manager
+Terminal=false
+Categories=Office;Utility;Agriculture;
+StartupWMClass=agri-storage-manager
+StartupNotify=true

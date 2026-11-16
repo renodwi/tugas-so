@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E7D32"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+    <linearGradient id="leafGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#81C784"/>
+      <stop offset="100%" stop-color="#4CAF50"/>
+    </linearGradient>
+  </defs>
+  <!-- Background squircle -->
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bgGrad)"/>
+  
+  <!-- Dashboard base card -->
+  <rect x="22" y="24" width="84" height="80" rx="12" fill="#FFFFFF" opacity="0.95"/>
+  
+  <!-- Header bar inside dashboard -->
+  <rect x="28" y="32" width="72" height="8" rx="4" fill="#E8F5E9"/>
+  <circle cx="34" cy="36" r="2.5" fill="#2E7D32"/>
+  <circle cx="42" cy="36" r="2.5" fill="#81C784"/>
+  <circle cx="50" cy="36" r="2.5" fill="#C8E6C9"/>
+
+  <!-- Left metric card -->
+  <rect x="28" y="46" width="34" height="30" rx="6" fill="#F1F8E9"/>
+  <line x1="33" y1="68" x2="40" y2="60" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="40" y1="60" x2="47" y2="64" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="47" y1="64" x2="56" y2="52" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="56" cy="52" r="2.5" fill="#43A047"/>
+
+  <!-- Right metric card with leaf -->
+  <rect x="66" y="46" width="34" height="30" rx="6" fill="#E8F5E9"/>
+  <path d="M78 70 C78 58 88 50 94 49 C94 56 90 68 78 70 Z" fill="url(#leafGrad)"/>
+  <path d="M80 68 Q87 60 92 51" stroke="#2E7D32" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Bottom status bar -->
+  <rect x="28" y="82" width="72" height="14" rx="4" fill="#F8FAF8"/>
+  <rect x="32" y="86" width="32" height="6" rx="3" fill="#81C784"/>
+  <circle cx="92" cy="89" r="3" fill="#2E7D32"/>
+</svg>

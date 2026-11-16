@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Agri-Yield Analytics
+Comment=Analisis Hasil Panen, Ton/Ha & Mutu Grade A/B/C
+Exec=agri-yield-analytics
+Icon=agri-yield-analytics
+Terminal=false
+Categories=Office;Utility;Agriculture;
+StartupWMClass=agri-yield-analytics
+StartupNotify=true

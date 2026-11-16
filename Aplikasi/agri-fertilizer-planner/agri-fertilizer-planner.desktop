@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Agri-Fertilizer Planner
+Comment=Jadwal dan Catatan Pemupukan Nutrisi Tanaman
+Exec=agri-fertilizer-planner
+Icon=agri-fertilizer-planner
+Terminal=false
+Categories=Office;Utility;Agriculture;
+StartupWMClass=agri-fertilizer-planner
+StartupNotify=true
